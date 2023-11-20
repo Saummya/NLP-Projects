@@ -1,3 +1,9 @@
+'''
+Spam classifier using Bag of words model 
+and further naivebayes is used for classification.
+'''
+
+
 # importing the Dataset
 
 import pandas as pd
